@@ -1,0 +1,4138 @@
+[{
+    "_id" : "53b4d11c50d2fc634f442e84",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3348,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "20cf3074b87e05fb3604f8956ebd"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 110,
+                "size" : 2792,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 140,
+                "size" : 7026,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-04T16:23:06.000Z",
+    "modseq" : 3402659,
+    "gmail" : {
+        "x-gm-thrid" : "1467131022681392158",
+        "x-gm-msgid" : "1467189125756916178",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "岡村勝弘 <katsuhiro.okamura@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Emailio <> Hiro",
+        "date" : "Sun, 4 May 2014 12:23:06 -0400"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "岡村勝弘",
+            "address" : "katsuhiro.okamura@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467189125756916178",
+    "thrid" : "1467131022681392158",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3348",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e85",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3349,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "089e0112c9f4c26b2e04f89cd642"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 97,
+                "size" : 2251,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 150,
+                "size" : 6665,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-05T01:13:28.000Z",
+    "modseq" : 3439405,
+    "gmail" : {
+        "x-gm-thrid" : "1467131022681392158",
+        "x-gm-msgid" : "1467222493484792875",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "岡村勝弘 <katsuhiro.okamura@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Emailio <> Hiro",
+        "date" : "Sun, 4 May 2014 21:13:28 -0400"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "岡村勝弘",
+            "address" : "katsuhiro.okamura@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467222493484792875",
+    "thrid" : "1467131022681392158",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3349",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e86",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3350,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "089e0112c9f448ebae04f8a64075"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 18,
+                "size" : 741,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 111,
+                "size" : 5374,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-05T12:27:13.000Z",
+    "modseq" : 3403110,
+    "gmail" : {
+        "x-gm-thrid" : "1467264882461970814",
+        "x-gm-msgid" : "1467264882461970814",
+        "x-gm-labels" : [ 
+            "\\Inbox", 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Fwd: Fw: NY Disrupt Update: Disrupt Tickets",
+        "date" : "Mon, 5 May 2014 08:27:13 -0400"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467264882461970814",
+    "thrid" : "1467264882461970814",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3350",
+    "labels" : [ 
+        "\\Inbox", 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ecd",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3423,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "md5" : null,
+            "lines" : 5,
+            "size" : 20,
+            "encoding" : "7BIT",
+            "description" : null,
+            "id" : null,
+            "params" : {
+                "charset" : "us-ascii"
+            },
+            "subtype" : "plain",
+            "type" : "text",
+            "partID" : "1"
+        }
+    ],
+    "date" : "2014-05-23T10:15:16.000Z",
+    "modseq" : 3601334,
+    "gmail" : {
+        "x-gm-thrid" : "1468887396884630108",
+        "x-gm-msgid" : "1468887396884630108",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Teodosi Teodosiev | Dev Labs <teodosi@devlabs.bg>",
+        "date" : "Fri, 23 May 2014 13:15:16 +0300",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Tests"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Teodosi Teodosiev | Dev Labs",
+            "address" : "teodosi@devlabs.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1468887396884630108",
+    "thrid" : "1468887396884630108",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3423",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53bb672872177767783bfb1a",
+    "email" : "daniel@eleven.bg",
+    "date" : "1970-01-01T00:00:00.000Z",
+    "modseq" : 0,
+    "key" : "daniel@eleven.bg:undefined:undefined",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53bf25eb21119ac1632665d2",
+    "email" : "dfriedman33@gmail.com",
+    "date" : "1970-01-01T00:00:00.000Z",
+    "modseq" : 0,
+    "key" : "dfriedman33@gmail.com:undefined:undefined",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53c0e9ffb45249390d41b0a9",
+    "email" : "nworht@gmail.com",
+    "date" : "1970-01-01T00:00:00.000Z",
+    "modseq" : 0,
+    "key" : "nworht@gmail.com:undefined:undefined",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e87",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3351,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d042cece431e50704f8a78987"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 118,
+                "size" : 4959,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 388,
+                "size" : 16363,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-05T13:59:11.000Z",
+    "modseq" : 3459352,
+    "gmail" : {
+        "x-gm-thrid" : "1467085273532424374",
+        "x-gm-msgid" : "1467270668378731865",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "NBATickets.comResaleSupport@ticketmaster.com",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Print your Brooklyn Nets tickets",
+        "date" : "Mon, 5 May 2014 09:59:11 -0400"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "",
+            "address" : "NBATickets.comResaleSupport@ticketmaster.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467270668378731865",
+    "thrid" : "1467085273532424374",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3351",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e88",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3352,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7b15ff3f764a5304f8b9703a"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 305,
+                "size" : 11282,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 1256,
+                "size" : 51726,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-06T11:20:46.000Z",
+    "modseq" : 3414764,
+    "gmail" : {
+        "x-gm-thrid" : "1466450593098562485",
+        "x-gm-msgid" : "1467351298286210124",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Cris Merritt <cris@bay31.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Reservation at 2 bedroom apt for your YC interview for April 27, 2014 - May 06, 2014",
+        "date" : "Tue, 6 May 2014 14:20:46 +0300"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Cris Merritt",
+            "address" : "cris@bay31.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467351298286210124",
+    "thrid" : "1466450593098562485",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3352",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e89",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3353,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7bdc78b835cc0904f8bcb4cb"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 59,
+                "size" : 1484,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 49,
+                "size" : 2678,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-06T15:14:27.000Z",
+    "modseq" : 3431099,
+    "gmail" : {
+        "x-gm-thrid" : "1467358794179450044",
+        "x-gm-msgid" : "1467366000597900166",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Dave Smith <dave-smith@garage.co.jp>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Wednesday Meeting",
+        "date" : "Tue, 6 May 2014 18:14:27 +0300",
+        "bcc" : "\"Teodosi Teodosiev | Dev Labs\" <teodosi@devlabs.bg>"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Dave Smith",
+            "address" : "dave-smith@garage.co.jp"
+        }
+    ],
+    "bcc" : [ 
+        {
+            "name" : "Teodosi Teodosiev | Dev Labs",
+            "address" : "teodosi@devlabs.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467366000597900166",
+    "thrid" : "1467358794179450044",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3353",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e8a",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3354,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "001a11c308dea18fca04f8c0676d"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 61,
+                "size" : 4778,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 122,
+                "size" : 9536,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-06T19:39:22.000Z",
+    "modseq" : 3423838,
+    "gmail" : {
+        "x-gm-thrid" : "1466112952314819815",
+        "x-gm-msgid" : "1467382667869122244",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Veselin Todorov <hi@vesln.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Bulgarian startup in Y Combinator",
+        "date" : "Tue, 6 May 2014 22:39:22 +0300"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Veselin Todorov",
+            "address" : "hi@vesln.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467382667869122244",
+    "thrid" : "1466112952314819815",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3354",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e8b",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3355,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d04428eee22edc304f8c7a406"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 54,
+                "size" : 1207,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 71,
+                "size" : 3489,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-07T04:17:22.000Z",
+    "modseq" : 3418831,
+    "gmail" : {
+        "x-gm-thrid" : "1467395057137657007",
+        "x-gm-msgid" : "1467415256873108037",
+        "x-gm-labels" : [ 
+            "\\Inbox", 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "cc" : "Teodosy Teodosiev <teo@emailio.com>, ivan@emailio.com",
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Emailio",
+        "date" : "Wed, 7 May 2014 07:17:22 +0300"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "cc" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "teo@emailio.com"
+        }, 
+        {
+            "name" : "",
+            "address" : "ivan@emailio.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467415256873108037",
+    "thrid" : "1467395057137657007",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3355",
+    "labels" : [ 
+        "\\Inbox", 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e8c",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3356,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "001a1132f24428069a04f8d1f193"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 69,
+                "size" : 5394,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 150,
+                "size" : 11712,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-07T16:34:44.000Z",
+    "modseq" : 3489228,
+    "gmail" : {
+        "x-gm-thrid" : "1466112952314819815",
+        "x-gm-msgid" : "1467461648413017657",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Veselin Todorov <hi@vesln.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Bulgarian startup in Y Combinator",
+        "date" : "Wed, 7 May 2014 09:34:44 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Veselin Todorov",
+            "address" : "hi@vesln.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467461648413017657",
+    "thrid" : "1466112952314819815",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3356",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Answered", 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e8d",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3357,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d04287a3542979404f8d20b0b"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 81,
+                "size" : 2400,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 94,
+                "size" : 5394,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-07T16:42:02.000Z",
+    "modseq" : 3535341,
+    "gmail" : {
+        "x-gm-thrid" : "1467300825594055917",
+        "x-gm-msgid" : "1467462107642199706",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "\"Lai, Melissa\" <MLai@prometheusreg.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Americana Rent",
+        "date" : "Wed, 7 May 2014 09:42:02 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Lai, Melissa",
+            "address" : "MLai@prometheusreg.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467462107642199706",
+    "thrid" : "1467300825594055917",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3357",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e8e",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3358,
+    "attachmentsList" : [ 
+        {
+            "filename" : "photo1.jpg",
+            "subtype" : "jpeg",
+            "type" : "image",
+            "partID" : "2"
+        }
+    ],
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "001a11c1de488b122c04f8d2fba0"
+            },
+            "type" : "mixed"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "params" : {
+                    "boundary" : "001a11c1de488b121904f8d2fb9e"
+                },
+                "type" : "alternative"
+            }, 
+            [ 
+                {
+                    "language" : null,
+                    "disposition" : null,
+                    "md5" : null,
+                    "lines" : 27,
+                    "size" : 649,
+                    "encoding" : "7BIT",
+                    "description" : null,
+                    "id" : null,
+                    "params" : {
+                        "charset" : "UTF-8"
+                    },
+                    "subtype" : "plain",
+                    "type" : "text",
+                    "partID" : "1.1"
+                }
+            ], 
+            [ 
+                {
+                    "language" : null,
+                    "disposition" : null,
+                    "md5" : null,
+                    "lines" : 28,
+                    "size" : 1749,
+                    "encoding" : "QUOTED-PRINTABLE",
+                    "description" : null,
+                    "id" : null,
+                    "params" : {
+                        "charset" : "UTF-8"
+                    },
+                    "subtype" : "html",
+                    "type" : "text",
+                    "partID" : "1.2"
+                }
+            ]
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : {
+                    "params" : {
+                        "filename" : "photo1.jpg"
+                    },
+                    "type" : "ATTACHMENT"
+                },
+                "md5" : null,
+                "size" : 630358,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "name" : "photo1.jpg"
+                },
+                "subtype" : "jpeg",
+                "type" : "image",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-07T17:49:13.000Z",
+    "modseq" : 3427232,
+    "gmail" : {
+        "x-gm-thrid" : "1467466185081814445",
+        "x-gm-msgid" : "1467466335107914366",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Cris Merritt <cris@bay31.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: whiteboard",
+        "date" : "Wed, 7 May 2014 10:49:13 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Cris Merritt",
+            "address" : "cris@bay31.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467466335107914366",
+    "thrid" : "1467466185081814445",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3358",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e8f",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3359,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "type" : "alternative",
+            "params" : {
+                "boundary" : "001a11c1de48249dd904f8d65830"
+            },
+            "disposition" : null,
+            "language" : null
+        }, 
+        [ 
+            {
+                "partID" : "1",
+                "type" : "text",
+                "subtype" : "plain",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 17837,
+                "lines" : 773,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ], 
+        [ 
+            {
+                "partID" : "2",
+                "type" : "text",
+                "subtype" : "html",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 41180,
+                "lines" : 1215,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ]
+    ],
+    "date" : "2014-05-07T21:49:52.000Z",
+    "modseq" : 3903501,
+    "gmail" : {
+        "x-gm-labels" : [ 
+            "\\Important"
+        ],
+        "x-gm-msgid" : "1467481474757285492",
+        "x-gm-thrid" : "1465028856540281396"
+    },
+    "headers" : {
+        "date" : "Wed, 7 May 2014 14:49:52 -0700",
+        "subject" : "Re: RE: RE: Peter Roberts <> Teo Teodosiev.",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "to" : "Peter Roberts <proberts@robertsimmigration.com>"
+    },
+    "from" : [ 
+        {
+            "address" : "tteodosiev@gmail.com",
+            "name" : "Teodosy Teodosiev"
+        }
+    ],
+    "to" : [ 
+        {
+            "address" : "proberts@robertsimmigration.com",
+            "name" : "Peter Roberts"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467481474757285492",
+    "thrid" : "1465028856540281396",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3359",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e90",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3360,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "20cf303b3aa331970a04f8dcf25e"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 23,
+                "size" : 422,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 24,
+                "size" : 934,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-08T05:42:26.000Z",
+    "modseq" : 3505016,
+    "gmail" : {
+        "x-gm-thrid" : "1467511206578993538",
+        "x-gm-msgid" : "1467511206578993538",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "mark@appboy.com",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Intro to DG Investee Emailio",
+        "date" : "Wed, 7 May 2014 22:42:26 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "",
+            "address" : "mark@appboy.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467511206578993538",
+    "thrid" : "1467511206578993538",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3360",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e91",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3361,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d0435c1a4ea587e04f8dd1458"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 18,
+                "size" : 1416,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 54,
+                "size" : 3072,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-08T05:52:09.000Z",
+    "modseq" : 3432567,
+    "gmail" : {
+        "x-gm-thrid" : "1466698910583593559",
+        "x-gm-msgid" : "1467511817323886044",
+        "x-gm-labels" : [ 
+            "\\Important", 
+            "Eleven"
+        ]
+    },
+    "headers" : {
+        "to" : "Dilyan Dimitrov <dilyan@eleven.bg>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: USD IBAN Мейл ООД",
+        "date" : "Wed, 7 May 2014 22:52:09 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Dilyan Dimitrov",
+            "address" : "dilyan@eleven.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467511817323886044",
+    "thrid" : "1466698910583593559",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3361",
+    "labels" : [ 
+        "\\Important", 
+        "Eleven"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e92",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3362,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d0435c1a4c68bf004f8dd5429"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 31,
+                "size" : 2486,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 106,
+                "size" : 5439,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-08T06:10:00.000Z",
+    "modseq" : 3437064,
+    "gmail" : {
+        "x-gm-thrid" : "1466698910583593559",
+        "x-gm-msgid" : "1467512940816479157",
+        "x-gm-labels" : [ 
+            "\\Important", 
+            "Eleven"
+        ]
+    },
+    "headers" : {
+        "to" : "Dilyan Dimitrov <dilyan@eleven.bg>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: USD IBAN Мейл ООД",
+        "date" : "Wed, 7 May 2014 23:10:00 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Dilyan Dimitrov",
+            "address" : "dilyan@eleven.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467512940816479157",
+    "thrid" : "1466698910583593559",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3362",
+    "labels" : [ 
+        "\\Important", 
+        "Eleven"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11c50d2fc634f442e93",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3363,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d042fd976091b4404f8e88852"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 6,
+                "size" : 524,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 10,
+                "size" : 816,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-08T19:31:45.000Z",
+    "modseq" : 3442544,
+    "gmail" : {
+        "x-gm-thrid" : "1467563266961706696",
+        "x-gm-msgid" : "1467563381827939721",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Communication Channel",
+        "date" : "Thu, 8 May 2014 12:31:45 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467563381827939721",
+    "thrid" : "1467563266961706696",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3363",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Answered", 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e94",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3364,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "001a1134b128c6b26c04f8e8f7b5"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 10,
+                "size" : 788,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 16,
+                "size" : 1304,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-08T20:02:59.000Z",
+    "modseq" : 3442543,
+    "gmail" : {
+        "x-gm-thrid" : "1467563266961706696",
+        "x-gm-msgid" : "1467565347974784340",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Communication Channel",
+        "date" : "Thu, 8 May 2014 13:02:59 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467565347974784340",
+    "thrid" : "1467563266961706696",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3364",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e95",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3365,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7b873e9ad099c704f8e98159"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 21,
+                "size" : 780,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 21,
+                "size" : 1093,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-08T20:41:35.000Z",
+    "modseq" : 3443084,
+    "gmail" : {
+        "x-gm-thrid" : "1467567335306887058",
+        "x-gm-msgid" : "1467567776265281622",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "cc" : "\"ivan@emailio.com\" <ivan@emailio.com>",
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Meeting about Backend",
+        "date" : "Thu, 8 May 2014 13:41:35 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "cc" : [ 
+        {
+            "name" : "",
+            "address" : "ivan@emailio.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467567776265281622",
+    "thrid" : "1467567335306887058",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3365",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ec3",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3412,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "md5" : null,
+            "lines" : 5,
+            "size" : 21,
+            "encoding" : "7BIT",
+            "description" : null,
+            "id" : null,
+            "params" : {
+                "charset" : "us-ascii"
+            },
+            "subtype" : "plain",
+            "type" : "text",
+            "partID" : "1"
+        }
+    ],
+    "date" : "2014-05-19T11:58:12.000Z",
+    "modseq" : 3558238,
+    "gmail" : {
+        "x-gm-thrid" : "1468531417606574157",
+        "x-gm-msgid" : "1468531417606574157",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Teodosy Teodosiev <teodosi@devlabs.bg>",
+        "date" : "Mon, 19 May 2014 14:58:12 +0300",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Testyyy"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "teodosi@devlabs.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1468531417606574157",
+    "thrid" : "1468531417606574157",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3412",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53c1108a8a6b26910d5e2179",
+    "email" : "wolfleon@gmail.com",
+    "date" : "1970-01-01T00:00:00.000Z",
+    "modseq" : 0,
+    "key" : "wolfleon@gmail.com:undefined:undefined",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53c1ab75f2bf9461112c7d60",
+    "email" : "alexis@initialized.co",
+    "date" : "1970-01-01T00:00:00.000Z",
+    "modseq" : 0,
+    "key" : "alexis@initialized.co:undefined:undefined",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53c2aaae5419c3553c6510bf",
+    "email" : "randall@vidpresso.com",
+    "date" : "1970-01-01T00:00:00.000Z",
+    "modseq" : 0,
+    "key" : "randall@vidpresso.com:undefined:undefined",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e96",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3366,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7b6766ceae61b804f8ec4070"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 77,
+                "size" : 1768,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 87,
+                "size" : 4671,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-08T23:58:07.000Z",
+    "modseq" : 3505016,
+    "gmail" : {
+        "x-gm-thrid" : "1467511206578993538",
+        "x-gm-msgid" : "1467580141343417741",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Mark Ghermezian <mark@appboy.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Intro to DG Investee Emailio",
+        "date" : "Thu, 8 May 2014 16:58:07 -0700",
+        "bcc" : "\"Teodosi Teodosiev | Dev Labs\" <teodosi@devlabs.bg>"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Mark Ghermezian",
+            "address" : "mark@appboy.com"
+        }
+    ],
+    "bcc" : [ 
+        {
+            "name" : "Teodosi Teodosiev | Dev Labs",
+            "address" : "teodosi@devlabs.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467580141343417741",
+    "thrid" : "1467511206578993538",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3366",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e97",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3367,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "20cf3074afde3d71b704f8ef98f3"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 106,
+                "size" : 2299,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 100,
+                "size" : 6555,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-09T03:57:21.000Z",
+    "modseq" : 3583604,
+    "gmail" : {
+        "x-gm-thrid" : "1465224629140000866",
+        "x-gm-msgid" : "1467595192684283026",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Sue Xu <sue@zparkventure.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: YC Demo DAY - Emailio",
+        "date" : "Thu, 8 May 2014 20:57:21 -0700",
+        "bcc" : "\"Teodosi Teodosiev | Dev Labs\" <teodosi@devlabs.bg>"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Sue Xu",
+            "address" : "sue@zparkventure.com"
+        }
+    ],
+    "bcc" : [ 
+        {
+            "name" : "Teodosi Teodosiev | Dev Labs",
+            "address" : "teodosi@devlabs.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467595192684283026",
+    "thrid" : "1465224629140000866",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3367",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e98",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3368,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d0435c1a47cdc9604f8efaedd"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 24,
+                "size" : 796,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 21,
+                "size" : 1398,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-09T04:03:35.000Z",
+    "modseq" : 3455158,
+    "gmail" : {
+        "x-gm-thrid" : "1467572778096573212",
+        "x-gm-msgid" : "1467595584215535744",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "cc" : "Teodosy Teodosiev <teo@emailio.com>, \"ivan@emailio.com\" <ivan@emailio.com>",
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Tester",
+        "date" : "Thu, 8 May 2014 21:03:35 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "cc" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "teo@emailio.com"
+        }, 
+        {
+            "name" : "",
+            "address" : "ivan@emailio.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467595584215535744",
+    "thrid" : "1467572778096573212",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3368",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e99",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3369,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7bf0d30424ec1b04f8faef0c"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 15,
+                "size" : 1242,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 34,
+                "size" : 2668,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-09T17:29:04.000Z",
+    "modseq" : 3458967,
+    "gmail" : {
+        "x-gm-thrid" : "1467541494833557116",
+        "x-gm-msgid" : "1467646260780802103",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Bogdana Rakova <b.rakova@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: пратка",
+        "date" : "Fri, 9 May 2014 10:29:04 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Bogdana Rakova",
+            "address" : "b.rakova@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467646260780802103",
+    "thrid" : "1467541494833557116",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3369",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e9a",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3370,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d0435c124a15c7304f8ff23e6"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 7,
+                "size" : 270,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 8,
+                "size" : 497,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-09T22:30:04.000Z",
+    "modseq" : 3488581,
+    "gmail" : {
+        "x-gm-thrid" : "1467664791193123373",
+        "x-gm-msgid" : "1467665198589484837",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: flights ASAP",
+        "date" : "Fri, 9 May 2014 15:30:04 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467665198589484837",
+    "thrid" : "1467664791193123373",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3370",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e9b",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3371,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7bfeac1ce2432804f8ff99d9"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 6,
+                "size" : 85,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 3,
+                "size" : 274,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-09T23:03:08.000Z",
+    "modseq" : 3456649,
+    "gmail" : {
+        "x-gm-thrid" : "1467666161691563977",
+        "x-gm-msgid" : "1467667278597234675",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: изпрати полета от моя акаунт от телефона си, не съм писал на травел ейджънсито",
+        "date" : "Fri, 9 May 2014 16:03:08 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467667278597234675",
+    "thrid" : "1467666161691563977",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3371",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e9c",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3372,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d04374701d907ad04f9052bf7"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 136,
+                "size" : 5624,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 414,
+                "size" : 17324,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-10T05:41:52.000Z",
+    "modseq" : 3459040,
+    "gmail" : {
+        "x-gm-thrid" : "1467272850399120102",
+        "x-gm-msgid" : "1467692364792838663",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "Jordan Enev <jordan@devlabs.bg>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Fwd: Print your Brooklyn Nets tickets [Incident:140505-000892]",
+        "date" : "Fri, 9 May 2014 22:41:52 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Jordan Enev",
+            "address" : "jordan@devlabs.bg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467692364792838663",
+    "thrid" : "1467272850399120102",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3372",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e9d",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3373,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d042fd976035e9304f910e63b"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 15,
+                "size" : 177,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 9,
+                "size" : 578,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-10T19:41:20.000Z",
+    "modseq" : 3510400,
+    "gmail" : {
+        "x-gm-thrid" : "1467745179417162205",
+        "x-gm-msgid" : "1467745179417162205",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Dave Smith <dave-smith@garage.co.jp>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Quick visit @ 2:40 today",
+        "date" : "Sat, 10 May 2014 12:41:20 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Dave Smith",
+            "address" : "dave-smith@garage.co.jp"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467745179417162205",
+    "thrid" : "1467745179417162205",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3373",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e9e",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3374,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7b873e9ac0b0e104f912a6e7"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 47,
+                "size" : 874,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 34,
+                "size" : 2079,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-10T21:46:49.000Z",
+    "modseq" : 3510400,
+    "gmail" : {
+        "x-gm-thrid" : "1467745179417162205",
+        "x-gm-msgid" : "1467753073588166280",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Dave Smith <dave-smith@garage.co.jp>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Quick visit @ 2:40 today",
+        "date" : "Sat, 10 May 2014 14:46:49 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Dave Smith",
+            "address" : "dave-smith@garage.co.jp"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467753073588166280",
+    "thrid" : "1467745179417162205",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3374",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Answered", 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442e9f",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3375,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d041a431803082404f912afff"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 64,
+                "size" : 1243,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 51,
+                "size" : 2894,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-10T21:49:07.000Z",
+    "modseq" : 3510400,
+    "gmail" : {
+        "x-gm-thrid" : "1467745179417162205",
+        "x-gm-msgid" : "1467753219010074630",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Quick visit @ 2:40 today",
+        "date" : "Sat, 10 May 2014 14:49:07 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467753219010074630",
+    "thrid" : "1467745179417162205",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3375",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea0",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3376,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7bf0d3041c21b304f92b4d31"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 179,
+                "size" : 4392,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 323,
+                "size" : 11232,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-12T03:11:19.000Z",
+    "modseq" : 3472095,
+    "gmail" : {
+        "x-gm-thrid" : "1467856216333041460",
+        "x-gm-msgid" : "1467864086635762856",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "岡村勝弘 <katsuhiro.okamura@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "I need information urgently",
+        "date" : "Sun, 11 May 2014 20:11:19 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "岡村勝弘",
+            "address" : "katsuhiro.okamura@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467864086635762856",
+    "thrid" : "1467856216333041460",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3376",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea1",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3377,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d04287a35f26b5504f92bfd18"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 129,
+                "size" : 3165,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 180,
+                "size" : 7039,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-12T04:00:46.000Z",
+    "modseq" : 3472179,
+    "gmail" : {
+        "x-gm-thrid" : "1467856216333041460",
+        "x-gm-msgid" : "1467867197915766262",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "岡村勝弘 <katsuhiro.okamura@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: I need information urgently",
+        "date" : "Sun, 11 May 2014 21:00:46 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "岡村勝弘",
+            "address" : "katsuhiro.okamura@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467867197915766262",
+    "thrid" : "1467856216333041460",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3377",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea2",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3378,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7bf0d304d4706804f937282e"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 42,
+                "size" : 1102,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 31,
+                "size" : 2072,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-12T17:20:10.000Z",
+    "modseq" : 3488945,
+    "gmail" : {
+        "x-gm-thrid" : "1467915237987764583",
+        "x-gm-msgid" : "1467917491674340274",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "cc" : "\"teo@emailio.com\" <teo@emailio.com>, \"ivan@emailio.com\" <ivan@emailio.com>",
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: May 29th Breakfast in NYC with Jaan Tallin (Founder of Skype) at 9am - Please RSVP by Tuesday",
+        "date" : "Mon, 12 May 2014 10:20:10 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "cc" : [ 
+        {
+            "name" : "",
+            "address" : "teo@emailio.com"
+        }, 
+        {
+            "name" : "",
+            "address" : "ivan@emailio.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467917491674340274",
+    "thrid" : "1467915237987764583",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3378",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea3",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3379,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d04339a4605b24604f938f140"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 115,
+                "size" : 2953,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 228,
+                "size" : 8917,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-12T19:27:44.000Z",
+    "modseq" : 3480132,
+    "gmail" : {
+        "x-gm-thrid" : "1467925269845045830",
+        "x-gm-msgid" : "1467925517000683759",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "\"Mokhtarani, Nima\" <nmokhtarani@firstrepublic.com>",
+        "from" : "\"Teo Teodosiev | Magin\" <teo@getmagin.com>",
+        "subject" : "Re: Wire transfer",
+        "date" : "Mon, 12 May 2014 12:27:44 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Magin",
+            "address" : "teo@getmagin.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Mokhtarani, Nima",
+            "address" : "nmokhtarani@firstrepublic.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467925517000683759",
+    "thrid" : "1467925269845045830",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3379",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea4",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3380,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7b873e9a0c7c2e04f93c6227"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 54,
+                "size" : 4276,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 118,
+                "size" : 9252,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-12T23:34:05.000Z",
+    "modseq" : 3489228,
+    "gmail" : {
+        "x-gm-thrid" : "1466112952314819815",
+        "x-gm-msgid" : "1467941016121186301",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Veselin Todorov <hi@vesln.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Bulgarian startup in Y Combinator",
+        "date" : "Mon, 12 May 2014 16:34:05 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Veselin Todorov",
+            "address" : "hi@vesln.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467941016121186301",
+    "thrid" : "1466112952314819815",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3380",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea5",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3381,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d04339a46314db104f93c889d"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 30,
+                "size" : 498,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 33,
+                "size" : 1530,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-12T23:44:45.000Z",
+    "modseq" : 3483257,
+    "gmail" : {
+        "x-gm-thrid" : "1467925725287294005",
+        "x-gm-msgid" : "1467941687591338331",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "David Hollands <david@embracedliving.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Keith Harding",
+        "date" : "Mon, 12 May 2014 16:44:45 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "David Hollands",
+            "address" : "david@embracedliving.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467941687591338331",
+    "thrid" : "1467925725287294005",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3381",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea6",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3382,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7bf0d3049999e904f93c969b"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 36,
+                "size" : 702,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 31,
+                "size" : 1745,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-12T23:48:46.000Z",
+    "modseq" : 3488602,
+    "gmail" : {
+        "x-gm-thrid" : "1467940916370762221",
+        "x-gm-msgid" : "1467941941129590580",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Randall Bennett <randall@vidpresso.com>",
+        "from" : "\"Teo Teodosiev | Emailio\" <teo@emailio.com>",
+        "subject" : "Re: Beta builds down?",
+        "date" : "Mon, 12 May 2014 16:48:46 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teo Teodosiev | Emailio",
+            "address" : "teo@emailio.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Randall Bennett",
+            "address" : "randall@vidpresso.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467941941129590580",
+    "thrid" : "1467940916370762221",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3382",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea7",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3383,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d04287a3572ea6a04f947e20e"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 61,
+                "size" : 4826,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 143,
+                "size" : 11222,
+                "encoding" : "BASE64",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-13T13:17:24.000Z",
+    "modseq" : 3511454,
+    "gmail" : {
+        "x-gm-thrid" : "1466112952314819815",
+        "x-gm-msgid" : "1467992814903317444",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "Veselin Todorov <hi@vesln.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: Bulgarian startup in Y Combinator",
+        "date" : "Tue, 13 May 2014 06:17:24 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Veselin Todorov",
+            "address" : "hi@vesln.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467992814903317444",
+    "thrid" : "1466112952314819815",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3383",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea8",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3384,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "type" : "alternative",
+            "params" : {
+                "boundary" : "047d7b873e9ad1dfea04f9489d09"
+            },
+            "disposition" : null,
+            "language" : null
+        }, 
+        [ 
+            {
+                "partID" : "1",
+                "type" : "text",
+                "subtype" : "plain",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 19469,
+                "lines" : 894,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ], 
+        [ 
+            {
+                "partID" : "2",
+                "type" : "text",
+                "subtype" : "html",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 48671,
+                "lines" : 1472,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ]
+    ],
+    "date" : "2014-05-13T14:09:47.000Z",
+    "modseq" : 3903501,
+    "gmail" : {
+        "x-gm-labels" : [ 
+            "\\Important"
+        ],
+        "x-gm-msgid" : "1467996111168287355",
+        "x-gm-thrid" : "1465028856540281396"
+    },
+    "headers" : {
+        "date" : "Tue, 13 May 2014 07:09:47 -0700",
+        "subject" : "Re: RE: RE: Peter Roberts <> Teo Teodosiev.",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "to" : "Peter Roberts <proberts@robertsimmigration.com>"
+    },
+    "from" : [ 
+        {
+            "address" : "tteodosiev@gmail.com",
+            "name" : "Teodosy Teodosiev"
+        }
+    ],
+    "to" : [ 
+        {
+            "address" : "proberts@robertsimmigration.com",
+            "name" : "Peter Roberts"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467996111168287355",
+    "thrid" : "1465028856540281396",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3384",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ea9",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3385,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "type" : "alternative",
+            "params" : {
+                "boundary" : "f46d041a4318f2032c04f948e5bb"
+            },
+            "disposition" : null,
+            "language" : null
+        }, 
+        [ 
+            {
+                "partID" : "1",
+                "type" : "text",
+                "subtype" : "plain",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 6322,
+                "lines" : 213,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ], 
+        [ 
+            {
+                "partID" : "2",
+                "type" : "text",
+                "subtype" : "html",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 15536,
+                "lines" : 359,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ]
+    ],
+    "date" : "2014-05-13T14:29:57.000Z",
+    "modseq" : 3813176,
+    "gmail" : {
+        "x-gm-labels" : [ 
+            "MWC"
+        ],
+        "x-gm-msgid" : "1467997379663106913",
+        "x-gm-thrid" : "1465523021176118203"
+    },
+    "headers" : {
+        "date" : "Tue, 13 May 2014 07:29:57 -0700",
+        "subject" : "Re: Bozhidar & Kaloyan involvement in MSC projects",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "to" : "Alexander Ilg <alexander.ilg@msc-mobile.com>"
+    },
+    "from" : [ 
+        {
+            "address" : "tteodosiev@gmail.com",
+            "name" : "Teodosy Teodosiev"
+        }
+    ],
+    "to" : [ 
+        {
+            "address" : "alexander.ilg@msc-mobile.com",
+            "name" : "Alexander Ilg"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467997379663106913",
+    "thrid" : "1465523021176118203",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3385",
+    "labels" : [ 
+        "MWC"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442eaa",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3386,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "type" : "alternative",
+            "params" : {
+                "boundary" : "047d7bf0d30443ad9004f948ed36"
+            },
+            "disposition" : null,
+            "language" : null
+        }, 
+        [ 
+            {
+                "partID" : "1",
+                "type" : "text",
+                "subtype" : "plain",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 20064,
+                "lines" : 944,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ], 
+        [ 
+            {
+                "partID" : "2",
+                "type" : "text",
+                "subtype" : "html",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 51721,
+                "lines" : 1581,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ]
+    ],
+    "date" : "2014-05-13T14:32:00.000Z",
+    "modseq" : 3903501,
+    "gmail" : {
+        "x-gm-labels" : [ 
+            "\\Important"
+        ],
+        "x-gm-msgid" : "1467997508861788704",
+        "x-gm-thrid" : "1465028856540281396"
+    },
+    "headers" : {
+        "date" : "Tue, 13 May 2014 07:32:00 -0700",
+        "subject" : "Re: RE: RE: Peter Roberts <> Teo Teodosiev.",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "to" : "Peter Roberts <proberts@robertsimmigration.com>"
+    },
+    "from" : [ 
+        {
+            "address" : "tteodosiev@gmail.com",
+            "name" : "Teodosy Teodosiev"
+        }
+    ],
+    "to" : [ 
+        {
+            "address" : "proberts@robertsimmigration.com",
+            "name" : "Peter Roberts"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1467997508861788704",
+    "thrid" : "1465028856540281396",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3386",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442eab",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3388,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "type" : "alternative",
+            "params" : {
+                "boundary" : "047d7b873e9a1072f704f94a2390"
+            },
+            "disposition" : null,
+            "language" : null
+        }, 
+        [ 
+            {
+                "partID" : "1",
+                "type" : "text",
+                "subtype" : "plain",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 21828,
+                "lines" : 1001,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ], 
+        [ 
+            {
+                "partID" : "2",
+                "type" : "text",
+                "subtype" : "html",
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "id" : null,
+                "description" : null,
+                "encoding" : "QUOTED-PRINTABLE",
+                "size" : 56553,
+                "lines" : 1667,
+                "md5" : null,
+                "disposition" : null,
+                "language" : null
+            }
+        ]
+    ],
+    "date" : "2014-05-13T15:58:38.000Z",
+    "modseq" : 3903501,
+    "gmail" : {
+        "x-gm-labels" : [ 
+            "\\Important"
+        ],
+        "x-gm-msgid" : "1468002958585862582",
+        "x-gm-thrid" : "1465028856540281396"
+    },
+    "headers" : {
+        "date" : "Tue, 13 May 2014 08:58:38 -0700",
+        "subject" : "Re: RE: RE: Peter Roberts <> Teo Teodosiev.",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "to" : "Peter Roberts <proberts@robertsimmigration.com>"
+    },
+    "from" : [ 
+        {
+            "address" : "tteodosiev@gmail.com",
+            "name" : "Teodosy Teodosiev"
+        }
+    ],
+    "to" : [ 
+        {
+            "address" : "proberts@robertsimmigration.com",
+            "name" : "Peter Roberts"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1468002958585862582",
+    "thrid" : "1465028856540281396",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3388",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442eac",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3389,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "f46d041a43188e60b004f94a26a8"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 12,
+                "size" : 308,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 12,
+                "size" : 707,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-13T15:59:36.000Z",
+    "modseq" : 3496010,
+    "gmail" : {
+        "x-gm-thrid" : "1468002594896302255",
+        "x-gm-msgid" : "1468003020012937541",
+        "x-gm-labels" : [ 
+            "\\Important"
+        ]
+    },
+    "headers" : {
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: calendar GIF",
+        "date" : "Tue, 13 May 2014 08:59:36 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1468003020012937541",
+    "thrid" : "1468002594896302255",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3389",
+    "labels" : [ 
+        "\\Important"
+    ],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "53b4d11d50d2fc634f442ead",
+    "folderId" : "[Gmail]/Sent Mail",
+    "uid" : 3390,
+    "attachmentsList" : null,
+    "struct" : [ 
+        {
+            "language" : null,
+            "disposition" : null,
+            "params" : {
+                "boundary" : "047d7b873e9acc390004f94a5ae9"
+            },
+            "type" : "alternative"
+        }, 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 26,
+                "size" : 811,
+                "encoding" : "7BIT",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "plain",
+                "type" : "text",
+                "partID" : "1"
+            }
+        ], 
+        [ 
+            {
+                "language" : null,
+                "disposition" : null,
+                "md5" : null,
+                "lines" : 24,
+                "size" : 1622,
+                "encoding" : "QUOTED-PRINTABLE",
+                "description" : null,
+                "id" : null,
+                "params" : {
+                    "charset" : "UTF-8"
+                },
+                "subtype" : "html",
+                "type" : "text",
+                "partID" : "2"
+            }
+        ]
+    ],
+    "date" : "2014-05-13T16:14:13.000Z",
+    "modseq" : 3497512,
+    "gmail" : {
+        "x-gm-thrid" : "1468002594896302255",
+        "x-gm-msgid" : "1468003939298725097",
+        "x-gm-labels" : []
+    },
+    "headers" : {
+        "to" : "Martin Stoyanov <mdimovv@gmail.com>",
+        "from" : "Teodosy Teodosiev <tteodosiev@gmail.com>",
+        "subject" : "Re: calendar GIF",
+        "date" : "Tue, 13 May 2014 09:14:13 -0700"
+    },
+    "from" : [ 
+        {
+            "name" : "Teodosy Teodosiev",
+            "address" : "tteodosiev@gmail.com"
+        }
+    ],
+    "to" : [ 
+        {
+            "name" : "Martin Stoyanov",
+            "address" : "mdimovv@gmail.com"
+        }
+    ],
+    "email" : "tteodosiev@gmail.com",
+    "msgid" : "1468003939298725097",
+    "thrid" : "1468002594896302255",
+    "key" : "tteodosiev@gmail.com:[Gmail]/Sent Mail:3390",
+    "labels" : [],
+    "flags" : [ 
+        "\\Seen"
+    ],
+    "__v" : 0
+}
+]
