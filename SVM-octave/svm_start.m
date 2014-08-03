@@ -22,6 +22,8 @@ C = 0.1;
 % For non-linear decision boundaries
 model = svmTrain(X, y, C, @gaussianKernel);
 
+save("model.txt", 'model')
+
 p = svmPredict(model, X);
 fprintf('Training Accuracy: %f\n', mean(double(p == y)) * 100);
 
