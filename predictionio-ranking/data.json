@@ -341,20 +341,6 @@
 
 ,
 {
-    "_id" : "53bb672872177767783bfb1a",
-    "email" : "daniel@eleven.bg",
-    "date" : "1970-01-01T00:00:00.000Z",
-    "modseq" : 0,
-    "key" : "daniel@eleven.bg:undefined:undefined",
-    "labels" : [],
-    "flags" : [ 
-        "\\Seen"
-    ],
-    "__v" : 0
-}
-
-,
-{
     "_id" : "53bf25eb21119ac1632665d2",
     "email" : "dfriedman33@gmail.com",
     "date" : "1970-01-01T00:00:00.000Z",
