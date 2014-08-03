@@ -3,6 +3,9 @@ function sim = gaussianKernel(x1, x2, sigma)
 %   sim = gaussianKernel(x1, x2) returns a gaussian kernel between x1 and x2
 %   and returns the value in sim
 
+% sigma: a bandwidth parameter, σ, which determines how fast the similarity metric decreases (to 0)
+% as the examples are further apart.
+
 x1 = x1(:); x2 = x2(:);
 
 % You need to return the following variables correctly.
